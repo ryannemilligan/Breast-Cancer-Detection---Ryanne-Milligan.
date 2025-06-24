@@ -61,10 +61,6 @@ I then compared their performance to identify the most accurate method for predi
 **Ryanne Milligan**   
 Miami Dade College  
 
-I’m passionate about the intersection of **machine learning and health informatics** — using data to improve clinical decision-making, diagnosis, and patient care outcomes.
+I’m passionate about the intersection of **machine learning and health informatics** using data to improve clinical decision-making, diagnosis, and patient care outcomes.
 
----
-
-## 📎 Link to Notebook
-
-[Run the Notebook in Google Colab](https://colab.research.google.com/drive/1T66Jt1HCUhWU-PlFtXqJCJEjMuHvlEwd?usp=sharing)
+This project was conducted as part of my coursework for CAI2100 at Miami Dade College.
